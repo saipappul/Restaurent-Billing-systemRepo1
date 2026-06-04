@@ -8,13 +8,13 @@ namespace Project1
 {
     public class Restaurent_Billing
     {
-
+       
         // To store Final Ordered items
         Dictionary<string, int> FinalBillItems = new Dictionary<string, int>();
         Dictionary<int, (string itemname, int price)> Menu = new Dictionary<int, (string, int)>();
         public Restaurent_Billing()
         {
-          
+            Console.WriteLine("test");
 
             Menu.Add(1, ("Poori", 10));
             Menu.Add(2, ("Idly", 20));
