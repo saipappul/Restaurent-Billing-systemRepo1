@@ -1,17 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using Xunit;
 
 namespace Project1
 {
-    public class Child 
+    public class child
     {
-
-        int a = 10;
-
-
+        public void RepeateOrders()
+        {
+           
+           
+        }
 
     }
 }
