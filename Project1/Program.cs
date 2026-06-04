@@ -15,6 +15,10 @@ public class Demo
     {
         Restaurent_Billing p = new Restaurent_Billing();
         p.Menuselection();
+
+        Console.WriteLine("test"); Console.WriteLine("test");
+        Console.WriteLine("test");
+        Console.WriteLine("test");
     }
 }
 

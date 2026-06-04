@@ -15,7 +15,10 @@ namespace Project1
         public Restaurent_Billing()
         {
             Console.WriteLine("test");
-
+            Console.WriteLine("test"); Console.WriteLine("test"); Console.WriteLine("test"); Console.WriteLine("test"); Console.WriteLine("test"); Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
             Menu.Add(1, ("Poori", 10));
             Menu.Add(2, ("Idly", 20));
             Menu.Add(3, ("Uthappa", 30));
