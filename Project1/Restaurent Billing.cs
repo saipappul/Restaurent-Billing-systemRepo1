@@ -108,7 +108,7 @@ namespace Project1
 
                 }
 
-                Console.WriteLine("Your FinalBill is {0}", Totalamount);
+                Console.WriteLine("Bill {0}", Totalamount);
                 Console.WriteLine("--------------------------------");
             }
         }
